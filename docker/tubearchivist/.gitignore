@@ -1,0 +1,4 @@
+volume_data/cache/*
+volume_data/es/*
+volume_data/media/*
+volume_data/redis/*
